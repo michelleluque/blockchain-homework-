@@ -1,2 +1,2 @@
 # blockchain-homework-
-![image](https://github.com/michelleluque/blockchain-homework-/assets/121137263/91786373-278a-436e-8000-163faecc18d7)
+In this assignment I typed the code through VS Code. I then was able to visualize the code through the Streamlit, web application. Here we are able to see the button feature. Once the streamlit app is open and the button is pressed, balloons will display as depicted in the code. 
